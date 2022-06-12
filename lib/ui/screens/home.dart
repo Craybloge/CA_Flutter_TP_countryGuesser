@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
                       context,
                       MaterialPageRoute(
                           builder: (context) =>
-                              const Details(country: _countries[index])),
+                              Details(country: _countries[index])),
                     );
                   },
                 ),
