@@ -6,8 +6,8 @@ Flutter 3.0.0
 Dart 2.17.0
 
 ## APIS
-- https://www.countryflagsapi.com/
-- https://restcountries.com/
+- [drapeaux](https://www.countryflagsapi.com/)
+- [data sur les pays](https://restcountries.com/)
 
 ## fonctionnalités
 j'ai pas eu le temps/j'ai oublié donc j'ai presque pas avancé sur ce que j'avais fait en cours malheureuseument, donc j'ai pas le quizz qui était prévu, j'ai juste:
