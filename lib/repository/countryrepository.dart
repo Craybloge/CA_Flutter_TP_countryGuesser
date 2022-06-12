@@ -9,6 +9,7 @@ class CountryRepository {
   Future<List<Country>> fetchCountries(String query) async {
     final Response response = await get(
         Uri.parse('https://restcountries.com/v3.1/all'));
+        // Uri.parse('https://restcountries.com/v3.1/name/peru'));
     if (response.statusCode == 200) {
       final List<Country> countries = [];
       final List<dynamic> json = jsonDecode(utf8.decode(response.bodyBytes));
