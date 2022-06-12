@@ -12,4 +12,4 @@ Dart 2.17.0
 ## fonctionnalités
 j'ai pas eu le temps/j'ai oublié donc j'ai presque pas avancé sur ce que j'avais fait en cours malheureuseument, donc j'ai pas le quizz qui était prévu, j'ai juste:
 - un écran avec une liste de tout les pays d'une api + leur drapeau qu'on récupère de l'api 2 grâce aux données de la première.
-- un accès à des informations supplémentaires sur le pays en cliquant dessus
+- un accès à des informations supplémentaires sur le pays en cliquant dessus (on a que 2 informations mais je pourrais en mettre 10 c'était juste pour montrer que ça marche)
